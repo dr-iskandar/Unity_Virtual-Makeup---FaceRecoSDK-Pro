@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 1754ac9fca51041c79484967b5b636a8
+timeCreated: 1496806916
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BrowFurrow
+    100004: BrowRaiseL
+    100006: BrowRaiseR
+    100008: EyeCloseL
+    100010: EyeCloseR
+    100012: MouthAh
+    100014: MouthEh
+    100016: MouthOh
+    100018: MouthSmile
+    100020: MouthSmileOpen
+    100022: Neutral
+    400000: //RootNode
+    400002: BrowFurrow
+    400004: BrowRaiseL
+    400006: BrowRaiseR
+    400008: EyeCloseL
+    400010: EyeCloseR
+    400012: MouthAh
+    400014: MouthEh
+    400016: MouthOh
+    400018: MouthSmile
+    400020: MouthSmileOpen
+    400022: Neutral
+    2300000: BrowFurrow
+    2300002: BrowRaiseL
+    2300004: BrowRaiseR
+    2300006: EyeCloseL
+    2300008: EyeCloseR
+    2300010: MouthAh
+    2300012: MouthEh
+    2300014: MouthOh
+    2300016: MouthSmile
+    2300018: MouthSmileOpen
+    2300020: Neutral
+    3300000: BrowFurrow
+    3300002: BrowRaiseL
+    3300004: BrowRaiseR
+    3300006: EyeCloseL
+    3300008: EyeCloseR
+    3300010: MouthAh
+    3300012: MouthEh
+    3300014: MouthOh
+    3300016: MouthSmile
+    3300018: MouthSmileOpen
+    3300020: Neutral
+    4300000: BrowFurrow
+    4300002: BrowRaiseL
+    4300004: BrowRaiseR
+    4300006: EyeCloseL
+    4300008: EyeCloseR
+    4300010: MouthAh
+    4300012: MouthEh
+    4300014: MouthOh
+    4300016: MouthSmile
+    4300018: MouthSmileOpen
+    4300020: Neutral
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
